@@ -15,6 +15,12 @@ Each .h5 file contains:
 
 To handle this dataset, refer to the [inr2vec offical repository](https://github.com/CVLAB-Unibo/inr2vec).
 
+## [manifold40](manifold40)
+
+Subset of the validation set of Manifold40, a dataset of meshes of 3D shapes. This subset contains one shape per class, i.e. 40 shapes.
+
+The content of .h5 files is analogous to ModelNet40.
+
 ## [shapenet_render](shapenet_render)
 
 Subset of the validation set of ShapenetRender, a dataset of NeRFs of 3D objects. This subset contains one object per class, i.e. 13 objects.
