@@ -21,6 +21,12 @@ Subset of the validation set of Manifold40, a dataset of meshes of 3D shapes. Th
 
 The content of .h5 files is analogous to ModelNet40.
 
+## [shapenet_vox](shapenet_vox)
+
+Subset of the validation set of ShapeNet10, a dataset of voxels of 3D shapes. This subset contains one shape per class, i.e. 10 shapes.
+
+The content of .h5 files is analogous to ModelNet40.
+
 ## [shapenet_render](shapenet_render)
 
 Subset of the validation set of ShapenetRender, a dataset of NeRFs of 3D objects. This subset contains one object per class, i.e. 13 objects.
